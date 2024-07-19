@@ -102,7 +102,7 @@ footer {
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>
-                <li><a href="#">Bikes</a></li>
+                <li><a href="./bikes.jsp">Bikes</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
         </nav>
