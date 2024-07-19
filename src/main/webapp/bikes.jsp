@@ -68,7 +68,7 @@ document.addEventListener("DOMContentLoaded", () => {
         {
             name: "Yamaha WR450F",
             description: "The Yamaha WR450F is a versatile off-road bike known for its powerful engine and excellent handling.",
-            image: "https://example.com/yamaha-wr450f.jpg"
+            image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fyamaha-mundoyamaha.com%2Fyz450f%2F&psig=AOvVaw16TdJfyS5tvvzONFOFKZkB&ust=1721500610364000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjfwuffs4cDFQAAAAAdAAAAABAJ"
         },
         {
             name: "Honda CRF450L",
