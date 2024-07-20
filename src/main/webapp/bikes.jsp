@@ -6,16 +6,17 @@
     <title>Vegas Bikes</title>
     <style> 
 body {
-    font-family: Arial, sans-serif;
+    font-family:monospace ;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #333;
+    background-color: rgb(93, 55, 12);
     color: white;
     padding: 1rem;
     text-align: center;
+    font-size: 70px;
 }
 
 main {
@@ -58,11 +59,11 @@ main {
         <h1>Vegas Bikes</h1>
     </header>
     <main>
-        <div class="bike-list" id="bike-list">
-            <!-- Bikes will be inserted here by JavaScript -->
+        <div class="bike-list" id="bike-list" style="border: 2px solid black;">
+           
         </div>
     </main>
-    <script>
+     <script>
 document.addEventListener("DOMContentLoaded", () => {
     const bikes = [
         {
@@ -72,7 +73,7 @@ document.addEventListener("DOMContentLoaded", () => {
         },
         {
             name: "Honda CRF450L",
-            description: "The Honda CRF450L is a street-legal dirt bike that combines performance and reliability for both off-road and on-road adventures.",
+            description: "  ",
             image: "https://example.com/honda-crf450l.jpg"
         },
         {
