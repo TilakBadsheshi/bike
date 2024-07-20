@@ -16,6 +16,9 @@ header {
     color: white;
     padding: 1rem;
     text-align: center;
+}
+
+#bike1{
     font-size: 70px;
 }
 
@@ -28,6 +31,8 @@ main {
     flex-wrap: wrap;
     gap: 2rem;
     justify-content: center;
+    height: 1000px;
+    
 }
 
 .bike-card {
@@ -56,10 +61,10 @@ main {
 </head>
 <body>
     <header>
-        <h1>Vegas Bikes</h1>
+        <h1 id="bike1">Vegas Bikes</h1>
     </header>
     <main>
-        <div class="bike-list" id="bike-list" style="border: 2px solid black;">
+        <div class="bike-list" id="bike-list" >
            
         </div>
     </main>
